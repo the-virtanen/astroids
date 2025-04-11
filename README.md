@@ -1,1 +1,1 @@
-# astroids
+boot.dev project building astroids game
